@@ -1,0 +1,112 @@
+﻿  Proj1.cpp
+C:\Users\agnie\source\repos\02 SEM3-PK3\00_PROJEKT_NA_ZALICZENIE\Proj1\Proj1\Proj1.cpp(4,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\agnie\source\repos\02 SEM3-PK3\00_PROJEKT_NA_ZALICZENIE\Proj1\Proj1\LinkedList.h(1,1): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\agnie\source\repos\02 SEM3-PK3\00_PROJEKT_NA_ZALICZENIE\Proj1\Proj1\LinkedList.h(4,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\agnie\source\repos\02 SEM3-PK3\00_PROJEKT_NA_ZALICZENIE\Proj1\Proj1\Node.h(1,1): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\agnie\source\repos\02 SEM3-PK3\00_PROJEKT_NA_ZALICZENIE\Proj1\Proj1\Proj1.cpp(94,35): warning C4305: "argument": obcięcie z "double" do "T"
+          with
+          [
+              T=float
+          ]
+C:\Users\agnie\source\repos\02 SEM3-PK3\00_PROJEKT_NA_ZALICZENIE\Proj1\Proj1\Proj1.cpp(95,35): warning C4305: "argument": obcięcie z "double" do "T"
+          with
+          [
+              T=float
+          ]
+C:\Users\agnie\source\repos\02 SEM3-PK3\00_PROJEKT_NA_ZALICZENIE\Proj1\Proj1\Proj1.cpp(96,35): warning C4305: "argument": obcięcie z "double" do "T"
+          with
+          [
+              T=float
+          ]
+C:\Users\agnie\source\repos\02 SEM3-PK3\00_PROJEKT_NA_ZALICZENIE\Proj1\Proj1\Proj1.cpp(97,35): warning C4305: "argument": obcięcie z "double" do "T"
+          with
+          [
+              T=float
+          ]
+C:\Users\agnie\source\repos\02 SEM3-PK3\00_PROJEKT_NA_ZALICZENIE\Proj1\Proj1\Proj1.cpp(98,35): warning C4305: "argument": obcięcie z "double" do "T"
+          with
+          [
+              T=float
+          ]
+C:\Users\agnie\source\repos\02 SEM3-PK3\00_PROJEKT_NA_ZALICZENIE\Proj1\Proj1\Proj1.cpp(101,43): warning C4305: "argument": obcięcie z "double" do "T"
+          with
+          [
+              T=float
+          ]
+C:\Users\agnie\source\repos\02 SEM3-PK3\00_PROJEKT_NA_ZALICZENIE\Proj1\Proj1\Proj1.cpp(104,44): warning C4305: "argument": obcięcie z "double" do "T"
+          with
+          [
+              T=float
+          ]
+C:\Users\agnie\source\repos\02 SEM3-PK3\00_PROJEKT_NA_ZALICZENIE\Proj1\Proj1\Proj1.cpp(107,44): warning C4305: "argument": obcięcie z "double" do "T"
+          with
+          [
+              T=float
+          ]
+C:\Users\agnie\source\repos\02 SEM3-PK3\00_PROJEKT_NA_ZALICZENIE\Proj1\Proj1\Proj1.cpp(117,36): warning C4305: "argument": obcięcie z "double" do "T"
+          with
+          [
+              T=float
+          ]
+C:\Users\agnie\source\repos\02 SEM3-PK3\00_PROJEKT_NA_ZALICZENIE\Proj1\Proj1\Proj1.cpp(118,36): warning C4305: "argument": obcięcie z "double" do "T"
+          with
+          [
+              T=float
+          ]
+C:\Users\agnie\source\repos\02 SEM3-PK3\00_PROJEKT_NA_ZALICZENIE\Proj1\Proj1\Proj1.cpp(119,36): warning C4305: "argument": obcięcie z "double" do "T"
+          with
+          [
+              T=float
+          ]
+C:\Users\agnie\source\repos\02 SEM3-PK3\00_PROJEKT_NA_ZALICZENIE\Proj1\Proj1\Proj1.cpp(120,36): warning C4305: "argument": obcięcie z "double" do "T"
+          with
+          [
+              T=float
+          ]
+C:\Users\agnie\source\repos\02 SEM3-PK3\00_PROJEKT_NA_ZALICZENIE\Proj1\Proj1\Proj1.cpp(121,36): warning C4305: "argument": obcięcie z "double" do "T"
+          with
+          [
+              T=float
+          ]
+C:\Users\agnie\source\repos\02 SEM3-PK3\00_PROJEKT_NA_ZALICZENIE\Proj1\Proj1\Proj1.cpp(122,36): warning C4305: "argument": obcięcie z "double" do "T"
+          with
+          [
+              T=float
+          ]
+C:\Users\agnie\source\repos\02 SEM3-PK3\00_PROJEKT_NA_ZALICZENIE\Proj1\Proj1\Proj1.cpp(140,33): warning C4305: "argument": obcięcie z "double" do "T"
+          with
+          [
+              T=float
+          ]
+C:\Users\agnie\source\repos\02 SEM3-PK3\00_PROJEKT_NA_ZALICZENIE\Proj1\Proj1\Proj1.cpp(141,84): warning C4305: "argument": obcięcie z "double" do "T"
+          with
+          [
+              T=float
+          ]
+C:\Users\agnie\source\repos\02 SEM3-PK3\00_PROJEKT_NA_ZALICZENIE\Proj1\Proj1\Proj1.cpp(143,33): warning C4305: "argument": obcięcie z "double" do "T"
+          with
+          [
+              T=float
+          ]
+C:\Users\agnie\source\repos\02 SEM3-PK3\00_PROJEKT_NA_ZALICZENIE\Proj1\Proj1\LinkedList.h(327,23): warning C4553: „==”: Wynik wyrażenia nie jest używany; czy chodziło Ci o „=”?
+C:\Users\agnie\source\repos\02 SEM3-PK3\00_PROJEKT_NA_ZALICZENIE\Proj1\Proj1\LinkedList.h(312): message : podczas kompilowania funkcji składowej „bool LinkedList<std::string>::search(T)” klasy klasa szablon
+          with
+          [
+              T=std::string
+          ]
+C:\Users\agnie\source\repos\02 SEM3-PK3\00_PROJEKT_NA_ZALICZENIE\Proj1\Proj1\Proj1.cpp(258): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „bool LinkedList<std::string>::search(T)” funkcji szablon
+          with
+          [
+              T=std::string
+          ]
+C:\Users\agnie\source\repos\02 SEM3-PK3\00_PROJEKT_NA_ZALICZENIE\Proj1\Proj1\Proj1.cpp(207): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „LinkedList<std::string>” klasy klasa szablon
+C:\Users\agnie\source\repos\02 SEM3-PK3\00_PROJEKT_NA_ZALICZENIE\Proj1\Proj1\LinkedList.h(175,18): warning C4553: „==”: Wynik wyrażenia nie jest używany; czy chodziło Ci o „=”?
+C:\Users\agnie\source\repos\02 SEM3-PK3\00_PROJEKT_NA_ZALICZENIE\Proj1\Proj1\LinkedList.h(168): message : podczas kompilowania funkcji składowej „void LinkedList<std::string>::pop_front(void)” klasy klasa szablon
+C:\Users\agnie\source\repos\02 SEM3-PK3\00_PROJEKT_NA_ZALICZENIE\Proj1\Proj1\LinkedList.h(294): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „void LinkedList<std::string>::pop_front(void)” funkcji szablon
+C:\Users\agnie\source\repos\02 SEM3-PK3\00_PROJEKT_NA_ZALICZENIE\Proj1\Proj1\LinkedList.h(36): message : podczas kompilowania funkcji składowej „LinkedList<std::string>::LinkedList(void)” klasy klasa szablon
+C:\Users\agnie\source\repos\02 SEM3-PK3\00_PROJEKT_NA_ZALICZENIE\Proj1\Proj1\Proj1.cpp(207): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „LinkedList<std::string>::LinkedList(void)” funkcji szablon
+C:\Users\agnie\source\repos\02 SEM3-PK3\00_PROJEKT_NA_ZALICZENIE\Proj1\Proj1\LinkedList.h(342): warning C4715: "LinkedList<int>::search”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\agnie\source\repos\02 SEM3-PK3\00_PROJEKT_NA_ZALICZENIE\Proj1\Proj1\LinkedList.h(342): warning C4715: "LinkedList<float>::search”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\agnie\source\repos\02 SEM3-PK3\00_PROJEKT_NA_ZALICZENIE\Proj1\Proj1\LinkedList.h(342): warning C4715: "LinkedList<double>::search”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\agnie\source\repos\02 SEM3-PK3\00_PROJEKT_NA_ZALICZENIE\Proj1\Proj1\LinkedList.h(342): warning C4715: "LinkedList<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::search”: niewszystkie ścieżki kodu zwracają wartość
+  Proj1.vcxproj -> C:\Users\agnie\source\repos\02 SEM3-PK3\00_PROJEKT_NA_ZALICZENIE\Proj1\Debug\Proj1.exe
