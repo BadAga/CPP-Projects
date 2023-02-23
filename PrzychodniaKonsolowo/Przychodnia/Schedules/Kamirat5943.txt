@@ -1,0 +1,101 @@
+20.06.22 10:00 
+30 
+cavities 
+Pati 
+---
+22.06.22 12:00 
+120 
+Staff Meeting 
+ 
+---
+22.06.22 14:00 
+30 
+Patient appoint. 
+ 
+86060685537 
+Andrzej Warner 
+ 
+2 
+---
+23.06.22 08:00 
+120 
+Staff Meeting 
+ 
+---
+23.06.22 10:00 
+30 
+Patient appoint. 
+ 
+89061369121 
+Ewa Miklewa 
+ 
+2 
+---
+24.06.22 10:30 
+30 
+Patient appoint. 
+ 
+80112349723 
+Amanda Nowak 
+ 
+2 
+---
+24.06.22 12:00 
+300 
+Surgery 
+ 
+---
+25.06.22 14:00 
+30 
+Patient appoint. 
+ 
+05300565668 
+Emilia Wiktorczyk 
+ 
+2 
+---
+25.06.22 14:30 
+30 
+Patient appoint. 
+ 
+88071723477 
+Jakub Bobowski 
+ 
+2 
+---
+25.06.22 15:00 
+30 
+Patient appoint. 
+ 
+90041414221 
+Angelika Kwiatowa 
+ 
+2 
+---
+25.06.22 15:30 
+30 
+Patient appoint. 
+ 
+76101868733 
+Mariusz Adamczewski 
+ 
+2 
+---
+25.06.22 16:00 
+30 
+Patient appoint. 
+ 
+76100774538 
+Adam Domowski 
+ 
+2 
+---
+26.06.22 17:00 
+30 
+Patient appoint. 
+ 
+96120633385 
+Izabela Rutkowska 
+ 
+2 
+---

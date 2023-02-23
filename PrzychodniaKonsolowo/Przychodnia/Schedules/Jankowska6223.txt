@@ -1,0 +1,110 @@
+20.06.22 09:00 
+200 
+skin biopsies 
+ 
+---
+20.06.22 16:00 
+120 
+Staff meeting 
+genaral 
+---
+21.06.22 08:00 
+60 
+Cryotherapy 
+ 
+---
+21.06.22 09:00 
+60 
+Sclerotherapy 
+stomatology consulation needed 
+---
+21.06.22 10:00 
+75 
+break :0 
+ 
+---
+21.06.22 13:00 
+100 
+Dermabrasion 
+ 
+---
+21.06.22 14:30 
+30 
+Patient appoint. 
+ 
+76101868733 
+Mariusz Adamczewski 
+ 
+2 
+---
+23.06.22 12:00 
+300 
+remv skin cancr 
+ 
+---
+23.06.22 17:00 
+120 
+Cryosurgery 
+ 
+---
+24.06.22 12:00 
+160 
+Meeting in Warsaw 
+11:30 pre meet 
+---
+25.06.22 08:30 
+30 
+Patient appoint. 
+Adult acne 
+86060685537 
+Andrzej Warner 
+Acutane 
+2 
+---
+26.06.22 08:00 
+30 
+Patient appoint. 
+ 
+80112349723 
+Amanda Nowak 
+ 
+2 
+---
+26.06.22 08:30 
+30 
+Patient appoint. 
+ 
+05300565668 
+Emilia Wiktorczyk 
+ 
+2 
+---
+27.06.22 12:00 
+200 
+dermabrasion 
+very hard 
+---
+01.07.22 15:00 
+30 
+Patient appoint. 
+ 
+89051746686 
+Ewa Springer 
+ 
+2 
+---
+02.07.22 15:00 
+120 
+Paper work 
+2-34 
+---
+03.07.22 12:00 
+120 
+Paper work 
+1-23 
+---
+06.07.22 10:00 
+180 
+Dermoplasty 
+ 
+---

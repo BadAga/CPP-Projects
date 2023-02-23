@@ -1,0 +1,13 @@
+86060685537     Andrzej     Warner     06.06.86     Katowice     M     
+89061369121     Ewa     Miklewa     13.06.89     Gliwice     F     
+80112349723     Amanda     Nowak     23.11.80     Zabrze     F     
+88071723477     Jakub     Bobowski     17.07.88     Bytom     M     
+05300565668     Emilia     Wiktorczyk     05.10.05     Borowa-Wies     F     
+90041414221     Angelika     Kwiatowa     14.04.90     Warszawa     F     
+76101868733     Mariusz     Adamczewski     18.10.76     Brzeg     D     
+76100774538     Adam     Domowski     07.10.76     Warszawa     M     
+96062962734     Gracjan     Jakubowski     29/06/96     Katowice     M     
+96120633385     Izabela     Rutkowska     06/12/96     Gorawy     F     
+89051746686     Ewa     Springer     17/05/89     Zabrze     F     
+89051746266     Roberto     Carlos     23/11/01     Brasil     F     
+89051785328     test     Test     15.07.10     Grunwald     M     

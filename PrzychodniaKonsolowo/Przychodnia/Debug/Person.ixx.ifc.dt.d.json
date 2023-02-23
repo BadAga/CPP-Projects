@@ -1,0 +1,10 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\agnie\\source\\repos\\04 sem4-pk4\\przychodnia\\przychodnia\\person.ixx",
+        "ProvidedModule": "Person",
+        "Includes": [],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

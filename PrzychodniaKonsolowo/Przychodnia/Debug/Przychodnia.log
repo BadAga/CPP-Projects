@@ -1,0 +1,7 @@
+﻿  Trwa skanowanie źródeł pod kątem zależności modułów...
+  FileManager.ixx
+  Trwa kompilowanie…
+  FileManager.ixx
+C:\Users\agnie\source\repos\04 SEM4-PK4\Przychodnia\Przychodnia\FileManager.ixx(4,26): warning C5201: deklaracja modułu może występować tylko na początku jednostki translacji, chyba że zostanie użyty fragment modułu globalnego
+  Przychodnia.cpp
+  Przychodnia.vcxproj -> C:\Users\agnie\source\repos\04 SEM4-PK4\Przychodnia\Debug\Przychodnia.exe

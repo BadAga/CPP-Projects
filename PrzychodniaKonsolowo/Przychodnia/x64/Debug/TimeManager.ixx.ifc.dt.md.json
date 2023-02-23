@@ -1,0 +1,11 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\agnie\\source\\repos\\04 sem4-pk4\\00 repo do projektu\\projekt\\przychodnia\\timemanager.ixx",
+        "ProvidedModule": "TimeManager",
+        "ImportedModules": [],
+        "ImportedHeaderUnits": [
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.31.31103\\include\\iostream"
+        ]
+    }
+}

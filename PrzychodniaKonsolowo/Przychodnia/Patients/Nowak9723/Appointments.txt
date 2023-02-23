@@ -1,0 +1,33 @@
+24.06.22 
+08:00 
+80112349723 Amanda Nowak 
+19 Emanuel Andrzejewski 
+30 
+08:30 
+Dentist 
+-1 
+ 
+ 
+---
+26.06.22 
+08:00 
+80112349723 Amanda Nowak 
+3 Lara Jankowska 
+30 
+08:30 
+Dermatologist 
+2 
+ 
+ 
+---
+26.06.22 
+08:00 
+80112349723 Amanda Nowak 
+9 Anna Szulc 
+30 
+08:30 
+Allergist 
+2 
+ 
+ 
+---

@@ -1,0 +1,35 @@
+﻿  Trwa skanowanie źródeł pod kątem zależności modułów...
+  MenuPat.ixx
+  Doctor.ixx
+  FileManager.ixx
+  Register.ixx
+  Menu.ixx
+  Patient.ixx
+  Person.ixx
+  Validator.ixx
+  iostream
+  regex
+  iomanip
+  string
+  Trwa kompilowanie…
+  iostream
+  string
+  regex
+  iomanip
+  Menu.ixx
+  Person.ixx
+  MenuPat.ixx
+  Doctor.ixx
+  Patient.ixx
+  Validator.ixx
+C:\Users\agnie\source\repos\04 SEM4-PK4\00 repo do projektu\Projekt\Przychodnia\Validator.ixx(2,24): warning C5201: deklaracja modułu może występować tylko na początku jednostki translacji, chyba że zostanie użyty fragment modułu globalnego
+  FileManager.ixx
+C:\Users\agnie\source\repos\04 SEM4-PK4\00 repo do projektu\Projekt\Przychodnia\FileManager.ixx(4,26): warning C5201: deklaracja modułu może występować tylko na początku jednostki translacji, chyba że zostanie użyty fragment modułu globalnego
+  Register.ixx
+C:\Users\agnie\source\repos\04 SEM4-PK4\00 repo do projektu\Projekt\Przychodnia\Register.ixx(4,23): warning C5201: deklaracja modułu może występować tylko na początku jednostki translacji, chyba że zostanie użyty fragment modułu globalnego
+  Przychodnia.cpp
+  Trwa generowanie kodu
+  Previous IPDB not found, fall back to full compilation.
+  All 896 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Zakończono generowanie kodu
+  Przychodnia.vcxproj -> C:\Users\agnie\source\repos\04 SEM4-PK4\00 repo do projektu\Projekt\x64\Release\Przychodnia.exe

@@ -1,0 +1,68 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\agnie\\source\\repos\\04 sem4-pk4\\00 repo do projektu\\projekt\\przychodnia\\menupat.ixx",
+        "ProvidedModule": "MenuPat",
+        "Includes": [],
+        "ImportedModules": [
+            {
+                "Name": "Menu",
+                "BMI": "C:\\Users\\agnie\\source\\repos\\04 SEM4-PK4\\00 repo do projektu\\Projekt\\Przychodnia\\x64\\Debug\\Menu.ixx.ifc.dt"
+            },
+            {
+                "Name": "Patient",
+                "BMI": "C:\\Users\\agnie\\source\\repos\\04 SEM4-PK4\\00 repo do projektu\\Projekt\\Przychodnia\\x64\\Debug\\Patient.ixx.ifc.dt"
+            },
+            {
+                "Name": "Validator",
+                "BMI": "C:\\Users\\agnie\\source\\repos\\04 SEM4-PK4\\00 repo do projektu\\Projekt\\Przychodnia\\x64\\Debug\\Validator.ixx.ifc.dt"
+            },
+            {
+                "Name": "Coordinator",
+                "BMI": "C:\\Users\\agnie\\source\\repos\\04 SEM4-PK4\\00 repo do projektu\\Projekt\\Przychodnia\\x64\\Debug\\Coordinator.ixx.ifc.dt"
+            },
+            {
+                "Name": "TimeManager",
+                "BMI": "C:\\Users\\agnie\\source\\repos\\04 SEM4-PK4\\00 repo do projektu\\Projekt\\Przychodnia\\x64\\Debug\\TimeManager.ixx.ifc.dt"
+            },
+            {
+                "Name": "Event",
+                "BMI": "C:\\Users\\agnie\\source\\repos\\04 SEM4-PK4\\00 repo do projektu\\Projekt\\Przychodnia\\x64\\Debug\\Event.ixx.ifc.dt"
+            },
+            {
+                "Name": "Person",
+                "BMI": "C:\\Users\\agnie\\source\\repos\\04 SEM4-PK4\\00 repo do projektu\\Projekt\\Przychodnia\\x64\\Debug\\Person.ixx.ifc.dt"
+            },
+            {
+                "Name": "Cifer",
+                "BMI": "C:\\Users\\agnie\\source\\repos\\04 SEM4-PK4\\00 repo do projektu\\Projekt\\Przychodnia\\x64\\Debug\\Cifer.ixx.ifc.dt"
+            },
+            {
+                "Name": "Doctor",
+                "BMI": "C:\\Users\\agnie\\source\\repos\\04 SEM4-PK4\\00 repo do projektu\\Projekt\\Przychodnia\\x64\\Debug\\Doctor.ixx.ifc.dt"
+            },
+            {
+                "Name": "Schedule",
+                "BMI": "C:\\Users\\agnie\\source\\repos\\04 SEM4-PK4\\00 repo do projektu\\Projekt\\Przychodnia\\x64\\Debug\\Schedule.ixx.ifc.dt"
+            }
+        ],
+        "ImportedHeaderUnits": [
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\enterprise\\vc\\tools\\msvc\\14.31.31103\\include\\iostream",
+                "BMI": "C:\\Users\\agnie\\source\\repos\\04 SEM4-PK4\\00 repo do projektu\\Projekt\\Przychodnia\\x64\\Debug\\iostream.ifc.dt"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\enterprise\\vc\\tools\\msvc\\14.31.31103\\include\\iomanip",
+                "BMI": "C:\\Users\\agnie\\source\\repos\\04 SEM4-PK4\\00 repo do projektu\\Projekt\\Przychodnia\\x64\\Debug\\iomanip.ifc.dt"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\enterprise\\vc\\tools\\msvc\\14.31.31103\\include\\string",
+                "BMI": "C:\\Users\\agnie\\source\\repos\\04 SEM4-PK4\\00 repo do projektu\\Projekt\\Przychodnia\\x64\\Debug\\string.ifc.dt"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\enterprise\\vc\\tools\\msvc\\14.31.31103\\include\\regex",
+                "BMI": "C:\\Users\\agnie\\source\\repos\\04 SEM4-PK4\\00 repo do projektu\\Projekt\\Przychodnia\\x64\\Debug\\regex.ifc.dt"
+            }
+        ]
+    }
+}

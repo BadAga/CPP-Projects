@@ -1,0 +1,28 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\agnie\\source\\repos\\04 sem4-pk4\\przychodnia\\przychodnia\\logger.ixx",
+        "ProvidedModule": "Logger",
+        "Includes": [],
+        "ImportedModules": [
+            {
+                "Name": "Validator",
+                "BMI": "C:\\Users\\agnie\\source\\repos\\04 SEM4-PK4\\Przychodnia\\Przychodnia\\Debug\\Validator.ixx.ifc"
+            }
+        ],
+        "ImportedHeaderUnits": [
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\enterprise\\vc\\tools\\msvc\\14.31.31103\\include\\iostream",
+                "BMI": "C:\\Users\\agnie\\source\\repos\\04 SEM4-PK4\\Przychodnia\\Przychodnia\\Debug\\iostream_6GCRXL3OSJVJKJ24.ifc"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\enterprise\\vc\\tools\\msvc\\14.31.31103\\include\\iomanip",
+                "BMI": "C:\\Users\\agnie\\source\\repos\\04 SEM4-PK4\\Przychodnia\\Przychodnia\\Debug\\iomanip_36N6Q67L3SZ7OJ3F.ifc"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\enterprise\\vc\\tools\\msvc\\14.31.31103\\include\\string",
+                "BMI": "C:\\Users\\agnie\\source\\repos\\04 SEM4-PK4\\Przychodnia\\Przychodnia\\Debug\\string_O4I4VMRB7WLPBRUX.ifc"
+            }
+        ]
+    }
+}
