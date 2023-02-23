@@ -1,0 +1,17 @@
+Poczekalnia:	5
+Miejsca:		10
+
+bandaz			200
+paracetamol		600
+ibuprofen		180
+glukometr		100
+plaster			1250
+spirytus		450
+wenflon			1000
+igla			1000
+kroplowka		500
+rekawiczki		500
+maseczka		750
+dren			200
+
+

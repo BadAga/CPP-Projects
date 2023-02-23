@@ -1,0 +1,24 @@
+Lekarze:
+
+1 Falko22
+2 RadwanyOgnia
+3 Borok2?
+4 ff12345
+5 Haslo_praca
+6 Praca456
+7 Gwiazda
+8 MamSweter
+9 Sambor
+10 Stankiewicz1978
+11 GosiaD
+12 KubaD
+13 Mierka
+
+Pielegniarki:
+
+1  Praca3
+2  Daga2
+3  Siemka?
+4  Beata23
+5  Bieg
+6  Edzia1968
